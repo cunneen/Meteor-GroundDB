@@ -7,7 +7,8 @@
 	"git": "https://github.com/GroundMeteor/Meteor-GroundDB.git",
 	"packages": {
 		"ejson-minimax": {
-			"git": "https://github.com/GroundMeteor/ejson-minimax.git"
+			"git": "https://github.com/GroundMeteor/ejson-minimax.git",
+            "tag": "v0.0.6"
 		}
 	}
 }
